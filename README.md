@@ -4,7 +4,7 @@
 
 To run this script the following requirements must be fulfilled:
 
-- Prebuild Portus Docker Image with image name `portus-git`
+- Prebuilt Portus Docker image with image name `portus-git`
 - DNS routed hostname for Portus
 - DNS routed hostname for the Docker Registry
 - Valid or Self-Signed-Certificate for Portus
