@@ -1,3 +1,7 @@
+*.key
+*.pem
+*.crt
+restart.sh
 certs/*
 config.out
 docker-compose.yml
