@@ -1,13 +1,18 @@
 *.key
 *.pem
 *.crt
-restart.sh
-certs/*
 config.out
 docker-compose.yml
+restart.sh
+
+certs/*
+
+data
 
 proxy/certs/*
 proxy/vhosts/*.conf
+
+utils/docker-containers
 
 registry/config.yml
 registry/portus.crt
